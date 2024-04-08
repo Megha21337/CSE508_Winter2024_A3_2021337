@@ -1,0 +1,11 @@
+
+Multinomial Naive Bayes:
+              precision    recall  f1-score   support
+
+     Average       0.70      0.11      0.20      6221
+         Bad       0.68      0.77      0.72      8096
+        Good       0.65      0.92      0.76     10142
+
+    accuracy                           0.67     24459
+   macro avg       0.68      0.60      0.56     24459
+weighted avg       0.68      0.67      0.61     24459
